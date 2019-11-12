@@ -1,5 +1,5 @@
-# Assignment-5
-Assignment 5 of Extensive Vision AI 
+# EVA Assignment-5
+The performed tasks are as follows:
 1.Change the code 8 or your own 4th Code from Assignment 4 to include:
 
   1.image normalization:DONE
