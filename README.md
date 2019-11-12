@@ -1,5 +1,5 @@
 # EVA Assignment-5
-Experimenting with different regularization techniques analysing missclassified images
+Experimenting with different regularization techniques and analysing missclassified images
 
 The performed tasks are as follows:
 1.Change the code 8 or your own 4th Code from Assignment 4 to include:
